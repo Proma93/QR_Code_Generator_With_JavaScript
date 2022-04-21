@@ -1,1 +1,1 @@
-# QR_Code_Generator_With_JavaScript
+# QR_Code_Generator_With_JavaScript_HTML_And_CSS
